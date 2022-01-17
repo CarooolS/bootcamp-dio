@@ -1,2 +1,2 @@
-# bootcamp-dio
-Desafios realizados no Bootcamp da DIO
+# Desafios do Bootcamp da DIO
+Repositório para os desafios realizados no Bootcamp da DIO
